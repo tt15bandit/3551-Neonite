@@ -14,7 +14,7 @@ Me - 0.5% Of Work
 
 * - How to setup full locker profile - *
 
-1. Find the athena.json found in the other folder on github
+1. Find the profile_athena.json found in the other folder on github
 
 2. Place it in "3551 Neonite\profile_template\profiles"
 
