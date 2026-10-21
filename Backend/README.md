@@ -9,7 +9,7 @@ Carbon - 85.5% Of Work
 
 Me - 0.5% Of Work
 
-Unknown - 14% Of Work (@._.theunknown._) on dsc
+Unknown - 14% Of Work | https://discord.com/users/1465001768894070897
 
 *v5.1.5*
 
